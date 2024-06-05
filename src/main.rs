@@ -44,5 +44,6 @@ fn main() {
 
 fn show_budget(){
     println!("This will show you the budget");
+    // Use TUI to visualize
 }
 
